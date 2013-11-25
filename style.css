@@ -1,7 +1,10 @@
 body {
 	font-family: helvetica;
-	text-align: center;
 	padding-top: 50px;
+	background-color: rgba(70, 25, 150, 1);
+}
+h1 {
+	text-align: center;
 }
 .starter-template {
 	padding: 1px 15px 40px 15px;
@@ -13,4 +16,7 @@ body {
 }
 .lead {
 	margin-top: 10px;
+}
+.cheatsheet {
+	text-align: left;
 }
