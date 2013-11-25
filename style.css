@@ -1,0 +1,16 @@
+body {
+	font-family: helvetica;
+	text-align: center;
+	padding-top: 50px;
+}
+.starter-template {
+	padding: 1px 15px 40px 15px;
+	text-align: center;
+	background: white;
+}
+.navbar {
+	margin-bottom: 20px;
+}
+.lead {
+	margin-top: 10px;
+}
