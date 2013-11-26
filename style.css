@@ -9,7 +9,7 @@ h1 {
 .starter-template {
 	padding: 1px 15px 40px 15px;
 	text-align: center;
-	background: white;
+	background: black;
 }
 .navbar {
 	margin-bottom: 20px;
@@ -18,5 +18,8 @@ h1 {
 	margin-top: 10px;
 }
 .cheatsheet {
+	text-align: left;
+}
+h3 {
 	text-align: left;
 }
